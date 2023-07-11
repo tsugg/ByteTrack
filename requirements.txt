@@ -11,12 +11,12 @@ thop
 ninja
 tabulate
 tensorboard
-lap
+# lap
 motmetrics
 filterpy
 h5py
 
 # verified versions
-onnx==1.13.0
-onnxruntime==1.13.1
-onnx-simplifier==0.3.5
+# onnx==1.13.0
+# onnxruntime==1.13.1
+# onnx-simplifier==0.3.5
